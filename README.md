@@ -1,2 +1,2 @@
 # Java_CursoEmVideo
-Projetos do Curso
+Exercicios do curso de Java promovido pela página cursoemvideo.com 
